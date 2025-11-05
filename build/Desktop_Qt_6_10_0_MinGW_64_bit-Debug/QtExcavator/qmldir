@@ -1,7 +1,0 @@
-module QtExcavator
-typeinfo appQtExcavator.qmltypes
-prefer :/QtExcavator/
-Main 1.0 qml/Main.qml
-ExcavatorMain 1.0 qml/ExcavatorMain.qml
-depends QtQuick
-
