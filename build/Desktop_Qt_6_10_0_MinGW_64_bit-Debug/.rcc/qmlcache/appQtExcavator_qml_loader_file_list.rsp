@@ -1,6 +1,0 @@
---resource
-D:/About-Project/QtExcavator/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/.qt/rcc/qmake_QtExcavator.qrc
---resource
-D:/About-Project/QtExcavator/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/.qt/rcc/appQtExcavator_raw_qml_0.qrc
-/QtExcavator/qml/Main.qml
-/QtExcavator/qml/ExcavatorMain.qml
