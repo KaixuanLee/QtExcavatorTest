@@ -1,0 +1,639 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 2,
+                            "column": 16,
+                            "durationMicroseconds": 108,
+                            "functionName": "color",
+                            "line": 24,
+                            "message": "Cannot access value for name darkMode"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 115,
+                            "functionName": "fill",
+                            "line": 23,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 19,
+                            "durationMicroseconds": 38,
+                            "functionName": "text",
+                            "line": 29,
+                            "message": "Cannot retrieve a non-object type by ID: controller"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 20,
+                            "durationMicroseconds": 29,
+                            "functionName": "color",
+                            "line": 34,
+                            "message": "Cannot access value for name darkMode"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 39,
+                            "durationMicroseconds": 93,
+                            "functionName": "horizontalCenter",
+                            "line": 30,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 26,
+                            "durationMicroseconds": 64,
+                            "functionName": "top",
+                            "line": 31,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 27,
+                            "durationMicroseconds": 44,
+                            "functionName": "fill",
+                            "line": 38,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 55,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 49,
+                            "message": "Could not find property \"color\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 0,
+                            "functionName": "checked",
+                            "line": 51,
+                            "message": "Could not find property \"checked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 43,
+                            "durationMicroseconds": 0,
+                            "functionName": "onCheckedChanged",
+                            "line": 52,
+                            "message": "Could not find signal \"checkedChanged\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 66,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 61,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 65,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 62,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 66,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 66,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 60,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 67,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 52,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 76,
+                            "message": "Could not find property \"color\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 39,
+                            "durationMicroseconds": 0,
+                            "functionName": "checked",
+                            "line": 77,
+                            "message": "Could not find property \"checked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 78,
+                            "durationMicroseconds": 0,
+                            "functionName": "onCheckedChanged",
+                            "line": 77,
+                            "message": "Could not find signal \"checkedChanged\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 63,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 86,
+                            "message": "Could not find property \"color\"."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 111,
+                            "durationMicroseconds": 72,
+                            "functionName": "alignment",
+                            "line": 86,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 38,
+                            "durationMicroseconds": 49,
+                            "functionName": "text",
+                            "line": 87,
+                            "message": "Cannot retrieve a non-object type by ID: controller"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 77,
+                            "durationMicroseconds": 34,
+                            "functionName": "color",
+                            "line": 87,
+                            "message": "Cannot access value for name darkMode"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "value",
+                            "line": 91,
+                            "message": "Could not find property \"value\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 0,
+                            "functionName": "onMoved",
+                            "line": 92,
+                            "message": "Could not find signal \"moved\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 64,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 99,
+                            "message": "Could not find property \"color\"."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 112,
+                            "durationMicroseconds": 58,
+                            "functionName": "alignment",
+                            "line": 99,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 38,
+                            "durationMicroseconds": 35,
+                            "functionName": "text",
+                            "line": 100,
+                            "message": "Cannot retrieve a non-object type by ID: controller"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 77,
+                            "durationMicroseconds": 40,
+                            "functionName": "color",
+                            "line": 100,
+                            "message": "Cannot access value for name darkMode"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "value",
+                            "line": 104,
+                            "message": "Could not find property \"value\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 0,
+                            "functionName": "onMoved",
+                            "line": 105,
+                            "message": "Could not find signal \"moved\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 65,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 112,
+                            "message": "Could not find property \"color\"."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 113,
+                            "durationMicroseconds": 70,
+                            "functionName": "alignment",
+                            "line": 112,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 38,
+                            "durationMicroseconds": 35,
+                            "functionName": "text",
+                            "line": 113,
+                            "message": "Cannot retrieve a non-object type by ID: controller"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 77,
+                            "durationMicroseconds": 33,
+                            "functionName": "color",
+                            "line": 113,
+                            "message": "Cannot access value for name darkMode"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "value",
+                            "line": 117,
+                            "message": "Could not find property \"value\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 0,
+                            "functionName": "onMoved",
+                            "line": 118,
+                            "message": "Could not find signal \"moved\"."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 121,
+                            "functionName": "width",
+                            "line": 138,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 91,
+                            "functionName": "height",
+                            "line": 139,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 39,
+                            "durationMicroseconds": 47,
+                            "functionName": "centerIn",
+                            "line": 137,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 104,
+                            "functionName": "y",
+                            "line": 147,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 38,
+                            "functionName": "color",
+                            "line": 148,
+                            "message": "Cannot access value for name darkMode"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 39,
+                            "durationMicroseconds": 65,
+                            "functionName": "left",
+                            "line": 143,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 40,
+                            "durationMicroseconds": 62,
+                            "functionName": "right",
+                            "line": 144,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 74,
+                            "functionName": "bottom",
+                            "line": 145,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 108,
+                            "functionName": "x",
+                            "line": 155,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 93,
+                            "functionName": "y",
+                            "line": 156,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 34,
+                            "functionName": "color",
+                            "line": 158,
+                            "message": "Cannot access value for name darkMode"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 39,
+                            "durationMicroseconds": 30,
+                            "functionName": "color",
+                            "line": 159,
+                            "message": "Cannot access value for name darkMode"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 29,
+                            "functionName": "color",
+                            "line": 166,
+                            "message": "Cannot access value for name darkMode"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 127,
+                            "functionName": "x",
+                            "line": 168,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 148,
+                            "functionName": "y",
+                            "line": 169,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 88,
+                            "durationMicroseconds": 26,
+                            "functionName": "angle",
+                            "line": 170,
+                            "message": "Cannot retrieve a non-object type by ID: controller"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 71,
+                            "durationMicroseconds": 43,
+                            "functionName": "y",
+                            "line": 170,
+                            "message": "Cannot access value for name height"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 43,
+                            "functionName": "verticalCenter",
+                            "line": 171,
+                            "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: void -> QQuickAnchorLine stored as QVariant"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 103,
+                            "functionName": "x",
+                            "line": 178,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 78,
+                            "functionName": "y",
+                            "line": 179,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 35,
+                            "functionName": "color",
+                            "line": 180,
+                            "message": "Cannot access value for name darkMode"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 39,
+                            "durationMicroseconds": 30,
+                            "functionName": "color",
+                            "line": 181,
+                            "message": "Cannot access value for name darkMode"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 29,
+                            "functionName": "color",
+                            "line": 188,
+                            "message": "Cannot access value for name darkMode"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 161,
+                            "functionName": "x",
+                            "line": 190,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 148,
+                            "functionName": "y",
+                            "line": 192,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 45,
+                            "functionName": "angle",
+                            "line": 195,
+                            "message": "Cannot retrieve a non-object type by ID: controller"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 53,
+                            "durationMicroseconds": 39,
+                            "functionName": "y",
+                            "line": 194,
+                            "message": "Cannot access value for name height"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 93,
+                            "functionName": "x",
+                            "line": 202,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 80,
+                            "functionName": "y",
+                            "line": 203,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 33,
+                            "functionName": "color",
+                            "line": 204,
+                            "message": "Cannot access value for name darkMode"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 39,
+                            "durationMicroseconds": 61,
+                            "functionName": "color",
+                            "line": 205,
+                            "message": "Cannot access value for name darkMode"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 33,
+                            "functionName": "color",
+                            "line": 212,
+                            "message": "Cannot access value for name darkMode"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 129,
+                            "functionName": "x",
+                            "line": 214,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 153,
+                            "functionName": "y",
+                            "line": 215,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 65,
+                            "functionName": "angle",
+                            "line": 218,
+                            "message": "Cannot retrieve a non-object type by ID: controller"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 52,
+                            "durationMicroseconds": 37,
+                            "functionName": "y",
+                            "line": 217,
+                            "message": "Cannot access value for name height"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 162,
+                            "functionName": "x",
+                            "line": 226,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 87,
+                            "functionName": "y",
+                            "line": 227,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 35,
+                            "durationMicroseconds": 61,
+                            "functionName": "rotation",
+                            "line": 228,
+                            "message": "Cannot retrieve a non-object type by ID: controller"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 119,
+                            "functionName": "onPaint",
+                            "line": 230,
+                            "message": "Cannot retrieve a non-object type by ID: controller"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 58,
+                            "durationMicroseconds": 31,
+                            "functionName": "color",
+                            "line": 249,
+                            "message": "Cannot access value for name darkMode"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 59,
+                            "durationMicroseconds": 29,
+                            "functionName": "color",
+                            "line": 250,
+                            "message": "Cannot access value for name darkMode"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 60,
+                            "durationMicroseconds": 28,
+                            "functionName": "color",
+                            "line": 251,
+                            "message": "Cannot access value for name darkMode"
+                        }
+                    ],
+                    "filePath": "D:/About-Project/QtExcavator/Main.qml"
+                }
+            ],
+            "moduleId": "QtExcavator(appQtExcavator)"
+        }
+    ]
+}

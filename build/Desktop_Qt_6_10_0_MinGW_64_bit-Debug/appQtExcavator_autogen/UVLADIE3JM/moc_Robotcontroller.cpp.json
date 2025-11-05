@@ -1,0 +1,211 @@
+{
+    "classes": [
+        {
+            "className": "RobotController",
+            "lineNumber": 4,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "lineNumber": 7,
+                    "name": "joint1",
+                    "notify": "joint1Changed",
+                    "read": "joint1",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "double",
+                    "user": false,
+                    "write": "setJoint1"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "lineNumber": 8,
+                    "name": "joint2",
+                    "notify": "joint2Changed",
+                    "read": "joint2",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "double",
+                    "user": false,
+                    "write": "setJoint2"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 2,
+                    "lineNumber": 9,
+                    "name": "joint3",
+                    "notify": "joint3Changed",
+                    "read": "joint3",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "double",
+                    "user": false,
+                    "write": "setJoint3"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 3,
+                    "lineNumber": 10,
+                    "name": "clawOpen",
+                    "notify": "clawOpenChanged",
+                    "read": "clawOpen",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "write": "setClawOpen"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 4,
+                    "lineNumber": 11,
+                    "name": "status",
+                    "notify": "statusChanged",
+                    "read": "status",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "RobotController",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "lineNumber": 34,
+                    "name": "joint1Changed",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "lineNumber": 35,
+                    "name": "joint2Changed",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "lineNumber": 36,
+                    "name": "joint3Changed",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 3,
+                    "lineNumber": 37,
+                    "name": "clawOpenChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 4,
+                    "lineNumber": 38,
+                    "name": "statusChanged",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "v",
+                            "type": "double"
+                        }
+                    ],
+                    "index": 5,
+                    "lineNumber": 23,
+                    "name": "setJoint1",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "v",
+                            "type": "double"
+                        }
+                    ],
+                    "index": 6,
+                    "lineNumber": 24,
+                    "name": "setJoint2",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "v",
+                            "type": "double"
+                        }
+                    ],
+                    "index": 7,
+                    "lineNumber": 25,
+                    "name": "setJoint3",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "open",
+                            "type": "bool"
+                        }
+                    ],
+                    "index": 8,
+                    "lineNumber": 26,
+                    "name": "setClawOpen",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 9,
+                    "lineNumber": 29,
+                    "name": "presetHome",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 10,
+                    "lineNumber": 30,
+                    "name": "presetDig",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 11,
+                    "lineNumber": 31,
+                    "name": "presetDump",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "Robotcontroller.h",
+    "outputRevision": 69
+}
