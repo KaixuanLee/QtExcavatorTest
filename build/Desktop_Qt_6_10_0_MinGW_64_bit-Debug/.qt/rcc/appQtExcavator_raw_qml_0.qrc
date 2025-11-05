@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/QtExcavator/">
+    <file alias="qml/Main.qml">D:/About-Project/QtExcavator/qml/Main.qml</file>
+    <file alias="qml/ExcavatorMain.qml">D:/About-Project/QtExcavator/qml/ExcavatorMain.qml</file>
+  </qresource>
+</RCC>
+

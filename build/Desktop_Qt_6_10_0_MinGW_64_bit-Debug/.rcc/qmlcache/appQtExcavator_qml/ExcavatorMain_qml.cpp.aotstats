@@ -1,0 +1,15 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                    ],
+                    "filePath": "D:/About-Project/QtExcavator/qml/ExcavatorMain.qml"
+                }
+            ],
+            "moduleId": "QtExcavator(appQtExcavator)"
+        }
+    ]
+}
